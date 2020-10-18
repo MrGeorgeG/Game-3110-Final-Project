@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 8570441938258461396}
   - component: {fileID: 2812198544267556891}
   m_Layer: 0
-  m_Name: ShellExplesion
+  m_Name: TankExplesion
   m_TagString: Untagged
   m_Icon: {fileID: 10300, guid: 0000000000000000f000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -226,7 +226,7 @@ ParticleSystem:
       maxColor: {r: 0.7924528, g: 0.02616591, b: 0.02616591, a: 1}
       maxGradient:
         serializedVersion: 2
-        key0: {r: 0.9811321, g: 0.5773011, b: 0.22677112, a: 1}
+        key0: {r: 0.9150943, g: 0.15107687, b: 0.21470395, a: 1}
         key1: {r: 0.21698111, g: 0.075956814, b: 0.007164475, a: 1}
         key2: {r: 0, g: 0, b: 0, a: 0}
         key3: {r: 0, g: 0, b: 0, a: 0}
@@ -550,7 +550,7 @@ ParticleSystem:
     startRotation:
       serializedVersion: 2
       minMaxState: 3
-      scalar: 1.7453293
+      scalar: 2.6179938
       minScalar: 0
       maxCurve:
         serializedVersion: 2
@@ -4825,4 +4825,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 18af185ab8ab18c42ab3d4e446857ac7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  time: 1.5
+  time: 1

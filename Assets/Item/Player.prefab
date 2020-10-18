@@ -337,4 +337,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Hp: 100
-  tankExplosion: {fileID: 0}
+  tankExplosion: {fileID: 24350526568258261, guid: 726621e239e990a4fb8957faaade0234, type: 3}
