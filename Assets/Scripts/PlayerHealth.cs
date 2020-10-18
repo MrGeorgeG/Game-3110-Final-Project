@@ -28,6 +28,7 @@ public class PlayerHealth : MonoBehaviour
         {
             GameObject.Instantiate(tankExplosion, transform.position + Vector3.up, transform.rotation);
             GameObject.Destroy(this.gameObject);
+            
         }
     }
 }
